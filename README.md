@@ -10,6 +10,6 @@ Use Tweet dumper to extract tweets of any user of Twitter, make sure to enter da
 Also, set the API keys before going ahead.
 
 
-After, you've extracted the tweets use the extracted csv file, and run along with sentiment.py.
+After, you've extracted the tweets use the extracted csv file in sentiment.py.
 
 In the end you should get a .csv file with values 0 and 1 assingning to the corresponding LIWC categories. 
